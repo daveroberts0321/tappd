@@ -1,3 +1,8 @@
+<script>
+
+    
+
+</script>
 
 
 <body>
@@ -84,7 +89,7 @@
                           <a class="btn btn-outline-light btn-social" href="/"><i class="fab fa-twitter"></i></a>
                           <a class="btn btn-outline-light btn-social" href="/"><i class="fab fa-facebook-f"></i></a>
                           <a class="btn btn-outline-light btn-social" href="/"><i class="fab fa-youtube"></i></a>
-                          <a class="btn btn-outline-light btn-social" href="/"><i class="fab fa-linkedin-in"></i></a>
+
                       </div>
                   </div>
                   <div class="col-lg-3 col-md-6">
@@ -95,7 +100,7 @@
                       <p>10AM - 08PM</p>
                   </div>
                   <div class="col-lg-3 col-md-6">
-                      <h4 class="section-title ff-secondary text-start text-primary fw-normal mb-4">Newsletter</h4>
+                      <h4 class="section-title ff-secondary text-start text-primary fw-normal mb-4">Sign Up for Sales Text</h4>
                       <p>Dolor amet sit justo amet elitr clita ipsum elitr est.</p>
                       <div class="position-relative mx-auto" style="max-width: 400px;">
                           <input class="form-control border-primary w-100 py-3 ps-4 pe-5" type="text" placeholder="Your email">
@@ -132,7 +137,7 @@
   </div>
 
   <!-- JavaScript Libraries -->
-  <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+  <script src="https://code.jquery.com/jquery-3.4.1.min.js"></scrip>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
   <script src="lib/wow/wow.min.js"></script>
   <script src="lib/easing/easing.min.js"></script>
